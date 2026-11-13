@@ -1,6 +1,6 @@
 {
-  "code": 54,
-  "name": "0.27",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/6117c26d915600210ece798a18ee57c50582f39f/Y-Note.apk",
-  "note": "처음 깔았을 때 사용법을 직접 해 보며 익히는 안내가 생겼어요. ⋯ 의 「사용법 다시 보기」 로 볼 수 있어요."
+  "code": 55,
+  "name": "0.27.1",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/04c3c03a26a692b5b7eed28b81c3cbc0919f689e/Y-Note.apk",
+  "note": "원형 메뉴가 귀퉁이에 뜨던 것을 고쳤고, 사용법에 손짓 그림이 생겼어요."
 }
