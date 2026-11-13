@@ -1,6 +1,6 @@
 {
-  "code": 55,
-  "name": "0.27.1",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/04c3c03a26a692b5b7eed28b81c3cbc0919f689e/Y-Note.apk",
-  "note": "원형 메뉴가 귀퉁이에 뜨던 것을 고쳤고, 사용법에 손짓 그림이 생겼어요."
+  "code": 56,
+  "name": "0.28",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/1653ad88d63d9fcecfbd00b75ad649d7b1995cae/Y-Note.apk",
+  "note": "⋯ 의 「사용법」 에서 도형 · 그래프 · 교재/문제 캡처 · 공책 관리를 직접 해 보며 익힐 수 있어요."
 }
