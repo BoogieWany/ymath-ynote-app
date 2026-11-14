@@ -1,6 +1,6 @@
 {
-  "code": 65,
-  "name": "0.31",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/9b7da70f6987d89c7b098199478a38d365604d96/apk/Y-Note-65.apk",
-  "note": "폰 · 세로 화면에 맞춤 · 설정 정리(톱니) · 손가락으로 쓰기 물어보기"
+  "code": 66,
+  "name": "0.31.1",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/ef58483343340d82d64924beb8dbd31a90d4dc84/apk/Y-Note-66.apk",
+  "note": "0.31 이 켜지지 않던 것 고침 · 폰 · 세로 화면에 맞춤"
 }
