@@ -1,7 +1,7 @@
 {
-  "code": 67,
-  "name": "0.31.2",
-  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-67.apk",
-  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/2810f31237e07c1709b6ecf34c5ddcd68b58f9a3/apk/Y-Note-67.apk",
-  "note": "폰에서 필기에 세로 줄무늬가 생기던 것 고침 · 지우개 단추 톡 = 고르기 / 꾹 = 창"
+  "code": 68,
+  "name": "0.31.3",
+  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-68.apk",
+  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/530a25f67e4d5b251f4cc00c7c99606cce58c911/apk/Y-Note-68.apk",
+  "note": "카메라 구멍을 피해 위 띠를 내림 · 세로 줄무늬 고침"
 }
