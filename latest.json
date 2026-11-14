@@ -1,6 +1,6 @@
 {
-  "code": 68,
-  "name": "0.31.3",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/530a25f67e4d5b251f4cc00c7c99606cce58c911/apk/Y-Note-68.apk",
-  "note": "카메라 구멍을 피해 위 띠를 내림 · 세로 줄무늬 고침"
+  "code": 69,
+  "name": "0.31.4",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/cbc7e7de8a0372a910d22daa3ad24c5f1059a761/apk/Y-Note-69.apk",
+  "note": "흔들어 점선 : 바뀐 뒤 1.5초 동안은 다시 안 바뀜"
 }
