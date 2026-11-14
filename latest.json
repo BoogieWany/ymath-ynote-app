@@ -1,6 +1,6 @@
 {
-  "code": 59,
-  "name": "0.29.1",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/01740c6616879c3df68eaab224b7b21e05976bdd/Y-Note.apk",
-  "note": "로즈 · 라벤더 · 세이지 테마의 색 자리를 바꿨어요 (바탕은 옅은 회색, 색은 포인트에만)."
+  "code": 60,
+  "name": "0.30",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/544558711b0d347325d1d440dd4d0dd4b72ea387/Y-Note.apk",
+  "note": "그래프 대칭(x칸·y칸 · 숫자판) · 절댓값 |y| · |x|"
 }
