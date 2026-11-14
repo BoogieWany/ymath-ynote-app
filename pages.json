@@ -1,7 +1,7 @@
 {
-  "code": 69,
-  "name": "0.31.4",
-  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-69.apk",
-  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/cbc7e7de8a0372a910d22daa3ad24c5f1059a761/apk/Y-Note-69.apk",
-  "note": "흔들어 점선 : 바뀐 뒤 1.5초 동안은 다시 안 바뀜"
+  "code": 70,
+  "name": "0.31.5",
+  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-70.apk",
+  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/5e8238cf759552bcefd23350dc7934f64600fa67/apk/Y-Note-70.apk",
+  "note": "폰에서 창을 닫을 수 없던 것 고침 (✕ 단추)"
 }
