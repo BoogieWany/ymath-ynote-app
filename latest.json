@@ -1,6 +1,6 @@
 {
-  "code": 63,
-  "name": "0.30.3",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/fb9589776316fe43f4c9bea6c194bf408bf59287/Y-Note.apk",
-  "note": "켤 때 새 판부터 확인 · 올가미로 그래프 고르기"
+  "code": 64,
+  "name": "0.30.4",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/d3d55d52cdf64859a396a9cf5ed6e202e1e075cf/apk/Y-Note-64.apk",
+  "note": "새 판 확인을 깃허브 페이지스에서 · 켤 때 새 판부터 확인"
 }
