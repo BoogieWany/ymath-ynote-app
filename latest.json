@@ -1,6 +1,6 @@
 {
-  "code": 60,
-  "name": "0.30",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/544558711b0d347325d1d440dd4d0dd4b72ea387/Y-Note.apk",
-  "note": "그래프 대칭(x칸·y칸 · 숫자판) · 절댓값 |y| · |x|"
+  "code": 61,
+  "name": "0.30.1",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/5311d79ec6d52cb175a95a0031794048f9228df5/Y-Note.apk",
+  "note": "절댓값 접을 때 잘리던 것 고침 · 업데이트 단추 한 번만 눌러도 되게"
 }
