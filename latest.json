@@ -1,6 +1,6 @@
 {
-  "code": 71,
-  "name": "0.32",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/94d1f4c0ec2b9421453bce4e03934043ff5390de/apk/Y-Note-71.apk",
-  "note": "켤 때 시작 화면(아이콘 · 와이매쓰 수학학원)이 부드럽게"
+  "code": 72,
+  "name": "0.33",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/54379f3f0580dd4441d4c1c7a6b91263c993568c/apk/Y-Note-72.apk",
+  "note": "월별 잠금 열쇠 기능을 뺐어요 — 이제 누구나 바로 쓸 수 있어요"
 }
