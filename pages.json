@@ -1,7 +1,7 @@
 {
-  "code": 74,
-  "name": "1.0",
-  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-74.apk",
-  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/e0526c6af75977c93734b0db074e0f77c9065b0a/apk/Y-Note-74.apk",
-  "note": "1.0 — 흔들기(원 · 정다각형 · 대칭축 · 도함수) · 형광펜 채우기 · 그래프 도함수"
+  "code": 75,
+  "name": "1.0.1",
+  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-75.apk",
+  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/c1031eb5e7bfa4fe2db689823fe59250c9fb5f5b/apk/Y-Note-75.apk",
+  "note": "형광펜 채우기 고침 · 캡처한 문제는 지우개로 안 지워져요"
 }
