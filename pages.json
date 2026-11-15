@@ -1,7 +1,7 @@
 {
-  "code": 70,
-  "name": "0.31.5",
-  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-70.apk",
-  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/5e8238cf759552bcefd23350dc7934f64600fa67/apk/Y-Note-70.apk",
-  "note": "폰에서 창을 닫을 수 없던 것 고침 (✕ 단추)"
+  "code": 71,
+  "name": "0.32",
+  "apk": "https://boogiewany.github.io/ymath-ynote-app/apk/Y-Note-71.apk",
+  "apk2": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/94d1f4c0ec2b9421453bce4e03934043ff5390de/apk/Y-Note-71.apk",
+  "note": "켤 때 시작 화면(아이콘 · 와이매쓰 수학학원)이 부드럽게"
 }
