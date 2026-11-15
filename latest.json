@@ -1,6 +1,6 @@
 {
-  "code": 75,
-  "name": "1.0.1",
-  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/c1031eb5e7bfa4fe2db689823fe59250c9fb5f5b/apk/Y-Note-75.apk",
-  "note": "형광펜 채우기 고침 · 캡처한 문제는 지우개로 안 지워져요"
+  "code": 76,
+  "name": "1.0.2",
+  "apk": "https://raw.githubusercontent.com/BoogieWany/ymath-ynote-app/e34ca792b44217e1b1c3b0a5dea931db5954829b/apk/Y-Note-76.apk",
+  "note": "흔들어 덧붙는 선(반지름 · 대칭축 · 도함수)이 바로 보여요"
 }
